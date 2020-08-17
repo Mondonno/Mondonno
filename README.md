@@ -8,3 +8,5 @@
   
   - 🤷‍♂️ You can **contact** me via Discord: **Mondonno#1234**
   - 📪 **Or mail:** <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
+ 
+<a href="https://stackoverflow.com/users/11824362/mondonno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11824362" height="30" width="30" /></a>
