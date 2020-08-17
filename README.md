@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Mondonno</h1>
 <h4 align="center">I'm the programmer, who exploring new technologies, i wan't to learn more and share my code</h3>
-  
-  - 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
-  - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
-  
-  - Some my projects: <br>
+
+    - Some my projects: <br>
     • <a href="https://github.com/Mondonno/lorn-diamond-fangame/tree/update-mondonno">https://github.com/Mondonno/lorn-diamond-fangame/</a> | Fun game<br>
     • https://github.com/Mondonno/BallonGame | The ballon logic game (Working on it...)<br>
     • https://github.com/Mondonno/ErrorSreach | Error Sreach for programmers (Working on it...)<br>
     • + A lot of private projects!
+  
+  - 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
+  - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
   
   - 👨‍💻 I'm programming in:
 <p algin="left"><img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
