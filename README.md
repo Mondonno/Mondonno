@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mondonno</h1>
-<h4 align="center">I'm the programmer, who exploring new technologies, i want to learn more and share my code</h3>
+<h4 align="center">I'm the programmer, who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.</h3>
 
   - **Some my projects:** <br>
     • <a href="https://github.com/Mondonno/lorn-diamond-fangame/tree/update-mondonno">https://github.com/Mondonno/lorn-diamond-fangame/</a> | Fun game<br>
