@@ -22,7 +22,6 @@
   
   </p>
   <br>
-  <br>
   <details>
   <summary>:zap: Github <b>Stats</b></summary>
   <br>
