@@ -1,5 +1,5 @@
 <h2 align="center"><code>Console.WriteLine(Hello, I'm Mondonno)</code></h1>
-<p align="center">I'm the programmer, who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.</p>
+<p align="center">I'm the programmer, who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
 
   - **Some my projects:** <br>
     • <a href="https://github.com/Mondonno/lorn-diamond-fangame/tree/update-mondonno">https://github.com/Mondonno/lorn-diamond-fangame/</a> | Fun game<br>
