@@ -22,13 +22,16 @@
   
   </p>
   <br>
+  <br>
   <details>
-  <summary>:zap: Github **Stats**</summary>
+  <summary>:zap: Github <b>Stats</b></summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Mondonno&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
-  <summary>:zap: **Most** used **languages**</summary>
+  <summary>:zap: <b>Most</b> used <b>languages</b></summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
   
