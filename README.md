@@ -12,7 +12,7 @@
   - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
   
   - 👨‍💻 I programming in:
-<p algin="left">
+<p algin="left" id="langs">
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
