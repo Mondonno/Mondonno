@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
-<h2 align="center"><code>using System; Console.WriteLine(Hello, I'm Mondonno)</code></h1>
+<h2 align="center"><code>using System; Console.WriteLine(string.Format("Hello, I'm {0}", "Mondonno"))</code></h1>
 <p align="center">I'm the programmer (Really like C# <3 ), who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
 
   - **Some my projects:** <br>
