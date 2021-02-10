@@ -4,16 +4,18 @@
 <p align="left">I'm the programmer (Really like C# <3 ), who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
 
 **Some things about me**
- - I'm 99% backend and 1% frontend developer
- - My main area where i foucsing is mobile apps and artiffical inteligence 📱
- - Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies
- - I love to be programmer, it is like... amazing adventure 🥳
- - I like riding on my bike, and rollers
+- I'm 99% backend and 1% frontend developer
+- My main area where i foucsing is mobile apps and artiffical inteligence 📱
+- Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies
+- I love to be programmer, it is like... amazing adventure 🥳
+- I like riding on my bike, and rollers
+
+<br><br>
   
-  - 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
-  - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
+- 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
+- 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
   
-  - 👨‍💻 I programming in:
+- 👨‍💻 I programming in:
 <p algin="left" id="langs">
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/>
