@@ -10,7 +10,6 @@
 - I love to be programmer, it is like... amazing adventure 🥳
 - I like riding on my bike, and rollers
 
-<br>
   
 - 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
 - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
