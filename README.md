@@ -11,10 +11,10 @@
 - I like riding on my bike, and rollers
 <br>  
 
-- 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
-- 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
+- 📪 You can contact me via Discord: **Mondonno#1234**
+- Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
   
-- 👨‍💻 I programming in:
+- 💻 I programming in:
 <p algin="left" id="langs">
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/>
