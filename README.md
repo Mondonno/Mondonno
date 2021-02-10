@@ -3,12 +3,12 @@
 <h2 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h1>
 <p align="left">I'm the programmer (Really like C# <3 ), who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
 
-  - **Some my projects:** <br>
-    • <a href="https://github.com/Mondonno/lorn-diamond-fangame/tree/update-mondonno">https://github.com/Mondonno/lorn-diamond-fangame/</a> | Fun game<br>
-    • https://github.com/Mondonno/BallonGame | The ballon logic game (Working on it...)<br>
-    • https://github.com/Mondonno/ErrorSreach | Error Sreach for programmers (Working on it...)<br>
-    • https://github.com/Mondonno/CustomPopUps.iOS | Simple library for CustomPopUps in Xamarin.iOS
-    <br>• + A lot of ***private*** projects!
+**Some things about me**
+ - I'm 99% backend and 1% frontend developer
+ - My main area where i foucsing is mobile apps and artiffical inteligence 📱
+ - Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies
+ - I love to be programmer, it is like... amazing adventure 🥳
+ - I like riding on my bike, and rollers
   
   - 🤷‍♂️ You can contact me via Discord: **Mondonno#1234**
   - 📪 Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
@@ -27,13 +27,14 @@
   <details>
   <summary>:zap: Github <b>Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mondonno&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mondonno&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <p><i> Not including Private Repositories</i> </p>
 </details>
 
 <details>
   <summary>:zap: <b>Most</b> used <b>languages</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
 </details>
   
 
