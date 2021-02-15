@@ -4,12 +4,13 @@
 <p align="left">I'm the programmer (Really like C# <3 ), who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
 
 **Some things about me**
-- I'm 99% backend and 1% frontend developer
-- My main area where i foucsing is mobile apps and artiffical inteligence 📱
-- Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies
-- I love to be programmer, it is like... amazing adventure 🥳
-- I like riding on my bike, and rollers
-<br>  
+<ul>
+  <li> I'm 99% backend and 1% frontend developer (So i am backend developer)</li> 
+  <li> My main area where i foucsing is mobile apps and artiffical inteligence 📱</li>
+  <li> Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
+  <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
+  <li> I like riding on my bike, and rollers</li>
+</ul>
 
 - 📪 You can contact me via Discord: **Mondonno#1234**
 - Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
