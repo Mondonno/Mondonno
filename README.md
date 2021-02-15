@@ -10,12 +10,13 @@
   <li> Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
   <li> I like riding on my bike, and rollers</li>
-</ul>
+</ul><br>
 
-- 📪 You can contact me via Discord: **Mondonno#1234**
-- Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a>
+<ul>
+  <li> 📪 You can contact me via Discord: **Mondonno#1234**</li>
+<li> Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a> </li>
   
-- 💻 I programming in:
+<li> 💻 I programming in:
 <p algin="left" id="langs">
   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/>
@@ -23,7 +24,7 @@
   <img src="https://cdn.discordapp.com/attachments/757922151524335626/798350013109370911/ts-logo-256.png" alt="typescript" width="40" height="40"/>
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/>
   <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" style="border-radius: 10px;">
-  
+  </li>
   </p>
   <br>
   <details>
