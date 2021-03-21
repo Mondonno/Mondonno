@@ -5,7 +5,7 @@
 
 **Some things about me**
 <ul>
-  <li> I'm 99% backend and 1% frontend developer (So i am backend developer)</li> 
+  <li> I programming in 99% on backend site but if i need i can create a simple backend</li> 
   <li> My main area where i foucsing is mobile apps and artiffical inteligence 📱</li>
   <li> Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
