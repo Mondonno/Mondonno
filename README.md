@@ -34,14 +34,14 @@
   
   <br>
   <details>
-  <summary>:zap: Github <b>Stats</b></summary>
+  <summary>:zap:⠀Github <b>Stats</b></summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mondonno&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
   <p><i> Not including Private Repositories</i> </p>
 </details>
 
 <details>
-  <summary>:zap: <b>Most</b> used <b>languages</b></summary>
+  <summary>:zap:⠀<b>Most</b> used <b>languages</b></summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
 </details>
