@@ -13,7 +13,7 @@
 </ul><br>
 
 <ul>
-  <li> 📪 You can contact me via Discord: <b>Mondonno#1234</b></li>
+  <li> 📪⠀You can contact me via Discord: <b>Mondonno#1234</b></li>
   <li> Or mail: <a href="mailto:mondonno.contact@gmail.com"><b>mondonno.contact@gmail.com<b></a> </li>
 </ul>
   
