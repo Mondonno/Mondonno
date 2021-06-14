@@ -44,6 +44,7 @@
   <summary>:zap:⠀<b>Most</b> used <b>languages</b></summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&bg_color=ffffff&text_color=333333&title_color=222222">
+  <p><i> Not including Private Repositories</i> </p>
 </details>
   
 
