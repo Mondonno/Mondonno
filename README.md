@@ -1,13 +1,13 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
-<p align="left">I'm the programmer (.NET and C# is the my best sides), who exploring new technologies, i want to learn more and share my code. I lova open source and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! Also i working on to upgrade my skillls in AI and OpenVC</p>
+<p align="left">I'm the programmer (.NET and C# are the my best sides), who exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code MMmm Yummy! I also working on to upgrade my skills in AI and OpenVC</p>
 
 **Some things about me**
 <ul>
   <li> I'm programming in 99% on backend side but if i need i can create a simple frontend</li> 
-  <li> My main area where i foucsing is mobile apps and artiffical inteligence 📱</li>
-  <li> Over all my programming carrier i create a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
+  <li> My main area where i foucsing are mobile apps and artiffical inteligence 📱</li>
+  <li> Over all my programming carrier i created a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
   <li> I like riding on my bike, and rollers</li>
 </ul><br>
