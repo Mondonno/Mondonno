@@ -18,7 +18,7 @@
 </ul>
   
 <p algin="center">
-  💻⠀I programming in:
+  💻⠀I mostly programming in:
   <br>
 
   <p id="langs">
