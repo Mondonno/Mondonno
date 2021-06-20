@@ -26,9 +26,9 @@
     <img width="45" height="50" src="https://media.discordapp.net/attachments/832581771904286732/836614406342705194/csharpLOGOv2.png">
     <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
+    <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" style="border-radius: 10px;">
     <img src="https://cdn.discordapp.com/attachments/757922151524335626/798350013109370911/ts-logo-256.png" alt="typescript" width="40" height="40"/>
     <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/>
-    <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" style="border-radius: 10px;">
   </p>
 </p>
   
