@@ -6,7 +6,7 @@
 **Some things about me**
 <ul>
   <li> I'm programming in 99% on backend side but if i need i can create a simple frontend</li> 
-  <li> My main area where i foucsing are mobile apps and artiffical inteligence 📱</li>
+  <li> My main area where i foucsing are <a href="CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱</li>
   <li> Over all my programming carrier i created a lot of games, websites, apps (most mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
   <li> I like riding on my bike, and rollers</li>
