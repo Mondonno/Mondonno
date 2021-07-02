@@ -3,7 +3,7 @@
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
 <p align="left">I'm the programmer (.NET and C# are the my best sides), who exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza and soft code Mmmm Yummy! I also working on to upgrade my skills in AI and Open CV</p>
 
-**Some things about me**
+**Some things about me** 
 <ul>
   <li> I'm programming in 99% on backend side but if i need i can create a simple frontend</li> 
   <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱</li>
