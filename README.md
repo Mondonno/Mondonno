@@ -29,6 +29,7 @@
     <img src="https://cdn.discordapp.com/attachments/757922151524335626/798350013109370911/ts-logo-256.png" alt="typescript" width="40" height="40"/>
     <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40" style="border-radius: 10px;">
     <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="40" height="40"/>
+    <img src="https://www.scottbrady91.com/img/logos/dart.svg" alt="dart" width="40" height="40">
   </p>
 </p>
   
