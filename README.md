@@ -9,7 +9,7 @@
   <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱</li>
   <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
-  <li> I like riding on my bike, and rollers</li>
+  <li> I like riding on my bike in the wooods 🌳, and rollers</li>
 </ul><br>
 
 <ul>
