@@ -15,7 +15,7 @@
 **Skills**
 <ul>
   <li> Mobile apps creation</li>
-  <li> Usage of popular algorithms, and skills on how to create efficient own</li>
+  <li> Usage of popular algorithms, and knowledge on how to create own and efficient</li>
   <li> Game development and usage of some popular game-frameworks  </li>
   <li> Desktop, CLI, Webapps, REST API and (little) front-end development </li>
   <li> Microcontrollers usage and programming </li>
