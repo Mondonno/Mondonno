@@ -1,15 +1,26 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
-<p align="left">I'm mobile programmer (.NET and C# are my best sides), who is exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin, MAUI and Flutter for Mobile.<br>I so much love clean code. I also working to upgrade my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
+<p align="left">I'm mobile programmer (.NET and C# are my best sides), who is exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin, MAUI and Flutter for Mobile.<br>Love clean code. I upgrading my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
 
-**Some things about me** 
+**About me** 
 <ul>
   <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b></li> 
   <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱</li>
   <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile :D) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
   <li> I like riding on my rollers and bike in the wooods 🌳</li>
+</ul>
+
+**Skills**
+<ul>
+  <li> Mobile apps creation</li>
+  <li> Usage of popular algorithms, and skills on how to create efficient own</li>
+  <li> Game development and usage of some popular game-frameworks  </li>
+  <li> Desktop, CLI, Webapps, REST API and (little) front-end development </li>
+  <li> Microcontrollers usage and programming </li>
+  <li> Basic knowledge about computer vision and artiffical intelligence </li>
+  <li> Basic knowledge of 3D visuallizing </li>
 </ul><br>
 
 <ul>
