@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
-<p align="left">I'm mobile programmer (.NET and C# are my best sides), who exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin and Flutter for Mobile.<br>I really like pizza (other cool dishes too!) and soft code Mmmm Yummy! I also working on to upgrade my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
+<p align="left">I'm mobile programmer (.NET and C# are my best sides), who exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies. I usually use Xamarin, MAUI and Flutter for Mobile.<br>I really like pizza (other cool dishes too!) and soft code Mmmm Yummy! I also working on to upgrade my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
 
 **Some things about me** 
 <ul>
