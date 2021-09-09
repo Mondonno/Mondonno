@@ -3,7 +3,7 @@
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
 <p align="left">I'm mobile programmer (.NET and C# are my best sides), who is exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies.<br>I usually use <b>Xamarin</b>, <b>MAUI</b> and <b>Flutter</b> for Mobile. Love clean code. I upgrading my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
 
-### **About me** 🧢
+### About me
 <ul>
   <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b> </li> 
   <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱 </li>
@@ -12,7 +12,7 @@
   <li> I like riding on my rollers and bike in the <a href="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80" target="_blank">wooods</a> 🌳 </li>
 </ul>
 
-### **Skills** 🧩
+### Skills
 <ul>
   <li> Mobile apps creation (cross-platform, native and direct) </li>
   <li> Usage of popular algorithms, and knowledge on how to create own and efficient</li>
