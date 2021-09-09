@@ -17,7 +17,7 @@
 </ul>
   
 <p algin="center">
-  💻⠀I mostly <b>programming</b> in:
+  💻⠀I'm mostly <b>programming</b> in:
   <br>
 
   <p id="langs">
