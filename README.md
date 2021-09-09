@@ -3,24 +3,24 @@
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
 <p align="left">I'm mobile programmer (.NET and C# are my best sides), who is exploring new technologies. I want to learn more and share my code. I love open source projects and the mobile, desktop, and web technologies.<br>I usually use Xamarin, MAUI and Flutter for Mobile. Love clean code. I upgrading my skills in AI and Open CV. <b>100% self-taught 🚀</b></p>
 
-**About me** 
+### **About me** 
 <ul>
-  <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b></li> 
-  <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱</li>
-  <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile :D) using a lot of diffrent technlogies </li>
+  <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b> </li> 
+  <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱 </li>
+  <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile) using a lot of diffrent technlogies </li>
   <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
-  <li> I like riding on my rollers and bike in the wooods 🌳</li>
+  <li> I like riding on my rollers and bike in the wooods 🌳 </li>
 </ul>
 
-**Skills**
+### **Skills**
 <ul>
-  <li> Mobile apps creation</li>
+  <li> Mobile apps creation </li>
   <li> Usage of popular algorithms, and knowledge on how to create own and efficient</li>
   <li> Game development and usage of some popular game-frameworks  </li>
   <li> Desktop, CLI, Webapps, REST API and (little) front-end development </li>
   <li> Microcontrollers usage and programming </li>
   <li> Basic knowledge about computer vision and artiffical intelligence </li>
-  <li> Basic knowledge of 3D visuallizing </li>
+  <li> Basic knowledge about 3D visuallizing </li>
 </ul><br>
 
 <ul>
@@ -32,7 +32,6 @@
   <br>
 
   <p id="langs">
-<!--   <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"> -->
     <img width="45" height="50" src="https://media.discordapp.net/attachments/832581771904286732/836614406342705194/csharpLOGOv2.png">
     <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
