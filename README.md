@@ -18,7 +18,7 @@
   <li> Usage of popular algorithms, and knowledge on how to create own and efficient</li>
   <li> Game development and usage of some popular game-frameworks  </li>
   <li> Desktop, CLI, Webapps, REST API and (little) front-end development </li>
-  <li> Microcontrollers usage and programming </li>
+  <li> Microcontrollers usage and programming them also </li>
   <li> Basic knowledge about computer vision,
     artiffical intelligence, 3D visuallizing and desiging </li>
 </ul><br>
