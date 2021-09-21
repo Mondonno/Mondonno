@@ -13,8 +13,11 @@
 </ul>
 
 ### Skills
-<a href="./SKILLS.md">Here</a> are listed some of my skills 🤸‍♂️
-<br><br>
+<ul>
+  <li><a href="./SKILLS.md">Here</a> are listed some of my skills 🤸‍♂️</li>
+  </ul>
+  
+------
 
 <ul>
   <li> 📪⠀You can contact me via mail: <b>mondonno.contact@gmail.com</b></li>
