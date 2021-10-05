@@ -7,4 +7,6 @@
   <li> Microcontrollers usage and programming </li>
   <li> Basic knowledge about computer vision and artiffical intelligence </li>
   <li> Basic 3D visuallizing and desiging </li>
-</ul
+</ul>
+
+<sup><sup>And maybe more that i not mentioned here?</sup></sup>
