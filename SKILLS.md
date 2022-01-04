@@ -9,4 +9,4 @@
   <li> Basic 3D visuallizing and desiging </li>
 </ul>
 
-<sup><sup>And maybe more that i not mentioned here?</sup></sup>
+You can see them all (or more!) at my repositories :)
