@@ -8,8 +8,7 @@
   <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b> </li> 
   <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱 </li>
   <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile) using a lot of diffrent technlogies </li>
-  <li> I love to be programmer, it is like... amazing adventure 🥳 </li>
-  <li> I like riding on my rollers and bike in the <a href="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80" target="_blank">wooods</a> 🌳 </li>
+  <li> Programming for me is amazing adventure that never ends</li>
 </ul>
 
 ### Skills
