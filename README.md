@@ -6,7 +6,7 @@
 ### About me
 <ul>
   <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b> </li> 
-  <li> My main area where i foucsing are <a href="https://github.com/Mondonno/CustomPopUps.iOS">mobile apps</a> and artiffical inteligence 📱 </li>
+  <li> My main area where i foucsing are mobile apps, AI and problem solving </li>
   <li> Over all my programming carrier i created a lot of games, websites, apps (mostly mobile) using a lot of diffrent technlogies </li>
   <li> Programming for me is amazing adventure that never ends</li>
 </ul>
