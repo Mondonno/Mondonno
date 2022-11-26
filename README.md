@@ -5,10 +5,10 @@
 
 ### About me
 <ul>
-  <li> I'm programming mostly on <b>backend</b> but if i need i can create a simple <b>frontend</b> </li> 
-  <li> My main area where i foucsing are mobile apps, AI and problem solving </li>
-  <li> I created and creating a lot of apps, websites and games using a lot of diffrent technlogies </li>
-  <li> Programming for me is amazing adventure that never ends</li>
+  <li> I'm programming mostly on <b>backend</b> but if I need (and i have motivation) i am able to create a simple <b>frontend</b> </li> 
+  <li> My main area where i'm focusing are mobile apps, AI and competitive problem solving </li>
+  <li> I created and I'm creating a lot of apps, websites and games using a lot of diffrent technlogies </li>
+  <li> Programming for me is an amazing adventure that never ends</li>
 </ul>
 
 ### Skills
