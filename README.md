@@ -3,18 +3,13 @@
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
 <p align="left">I'm mobile programmer and native apps developer (.NET platform and C# are my best sides). I love open source projects, mobile, desktop, and web technologies.<br>I usually use <b>Xamarin</b>, <b>MAUI</b> and <b>Flutter</b> for Mobile. I working currently on improving my problem solving skills. I'm full self-taught</p>
 
-### About me
+### About me - in a shortcut
 <ul>
   <li> I'm programming mostly on <b>backend</b> but if I need (and i have motivation) i am able to create a simple <b>frontend</b> </li> 
   <li> My main area where i'm focusing are mobile apps, AI and competitive problem solving </li>
   <li> I created and I'm creating a lot of apps, websites and games using a lot of diffrent technlogies </li>
   <li> Programming for me is an amazing adventure that never ends</li>
 </ul>
-
-### Skills
-<ul>
-  <li><a href="./SKILLS.md">Here</a> are listed some of my skills 🤸‍♂️</li>
-  </ul>
   
 ------
 
