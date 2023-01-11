@@ -1,26 +1,25 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
-<p align="left">I'm mobile programmer and native apps developer (.NET platform and C# are my best sides). I love open source projects, mobile, desktop, and web technologies.<br>I usually use <b>Xamarin</b>, <b>MAUI</b> and <b>Flutter</b> for Mobile. I working currently on improving my problem solving skills. I'm full self-taught</p>
+<p align="left">Hi! I'm Mondonno a mobile programmer and native apps developer. I code my projects in C, ASM, C#, C++, Python and several other programming languages. I'm currently a passionate in electronics, microcontrollers and competitive problem solving which I currently improve myself in. I also code, mobile apps and for them I mostly use MAUI and Flutter tech stack. I'm fully self-taught programmer.</p>
 
-### About me - in a shortcut
+### About me - in a brief shortcut
 <ul>
-  <li> I'm programming mostly on <b>backend</b> but if I need (and i have motivation) i am able to create a simple <b>frontend</b> </li> 
-  <li> My main area where i'm focusing are mobile apps, AI and competitive problem solving </li>
-  <li> I created and I'm creating a lot of apps, websites and games using a lot of diffrent technlogies </li>
-  <li> Programming for me is an amazing adventure that never ends</li>
+  <li> I'm programming mostly on backend, and things out of the user view</li> 
+  <li> My main area where i'm focusing are mobile apps, AI, competitive problem solving and electronics (microcontrollers) </li>
+  <li> Programming for me is a passion, which i just love </li>
 </ul>
   
 ------
 
-<ul>
-  <li> 📪⠀You can contact me via mail: <b>mondonno.contact@gmail.com</b></li>
-</ul>
+📪⠀You can contact me via mail: <b>mondonno.contact@gmail.com</b></li>
   
-<p algin="center">
-  💻⠀I'm mostly <b>programming</b> in:
   <br>
-
+  <details>
+  <summary>:zap: Coding <b>Stats</b></summary>
+  <br>
+  <p algin="center">
+<!--   💻⠀I'm mostly <b>programming</b> in: -->
   <p id="langs">
     <img width="45" height="50" src="https://media.discordapp.net/attachments/832581771904286732/836614406342705194/csharpLOGOv2.png">
     <img src="https://logodix.com/logo/640491.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/>
@@ -32,16 +31,12 @@
   </p>
 </p>
   
-  <br>
-  <details>
-  <summary>:zap:⠀Github <b>Stats</b></summary>
-  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mondonno&&show_icons=true&theme=dark&hide_border=true">
   <p> <sup><i> Not including Private Repositories</i></sup> </p>
 </details>
 
 <details>
-  <summary>:zap:⠀<b>Most</b> used <b>languages</b></summary>
+  <summary>:zap: <b>Most</b> used <b>languages</b></summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&theme=dark&hide_border=true">
   <p> <sup><i> Not including Private Repositories</i></sup> </p>
