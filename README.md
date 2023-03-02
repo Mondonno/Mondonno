@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Mondonno/Mondonno/master/mondonno-readme.css">
 
 <h3 align="center"><code>System.Console.WriteLine("Hello, I'm Mondonno")</code></h3>
-<p align="left">Hi! I'm Mondonno a mobile programmer and native apps developer. I code my projects in C, ASM, C#, C++, Python and several other programming languages, depending on the requirements of a given project. I'm currently a passionate in electronics, microcontrollers and competitive problem solving which I currently improve myself in. I also code, mobile apps and for them I mostly use MAUI and Flutter tech stack. I'm fully self-taught programmer.</p>
+<p align="left">I'm mobile and native apps developer. I code my projects in C, ASM, C#, C++, Python and several other programming languages, depending on the requirements of a given project. I'm currently a passionate in electronics, microcontrollers and competitive problem solving which I currently improve myself in. I also code, mobile apps and for them I mostly use MAUI and Flutter tech stack. I'm fully self-taught programmer.</p>
 
 ### About me - in a brief shortcut
 <ul>
