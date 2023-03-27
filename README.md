@@ -7,7 +7,7 @@
 <ul>
   <li> I'm programming mostly on backend, and things out of the user view</li> 
   <li> My main area where i'm focusing are mobile apps, AI, competitive problem solving and electronics (microcontrollers) </li>
-  <li> Programming for me is a passion, which I just love </li>
+  <li> Programming is a passion for me that I love</li>
 </ul>
   
 ------
