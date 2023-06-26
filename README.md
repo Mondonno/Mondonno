@@ -3,7 +3,7 @@
 <code>printf("Hello, I'm Mondonno")</code>
 <p align="left">I'm mobile and native apps developer. I mostly code in low-level and object oriented languages and their derivatives, depending on the requirements of a given project. I'm currently a passionate in electronics, microcontrollers and competitive problem solving which I currently improve myself in. I also code mobile apps often, and for them I mostly use MAUI and Flutter tech stack.</p>
 
-#### About me - in a brief shortcut
+#### About me, in a brief shortcut
 <ul>
   <li> I'm programming mostly on backend, and things out of the user view</li> 
   <li> My main area where i'm focusing are mobile apps, AI, competitive problem solving and electronics (microcontrollers) </li>
