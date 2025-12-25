@@ -2,7 +2,7 @@
 
 <code>printf("Hello, I'm Mondonno")</code>
 <p>
-  I am the CEO and CTO of [@iminti](https://github.com/iminti), AI-powered accessibility maps.
+  I am the CEO and CTO of <a href="https://github.com/iminti">@iminti</a>, AI-powered accessibility maps.
 </p>
 
 <p align="left">I'm mobile and native apps developer. I mostly code in low-level and object oriented languages and their derivatives, depending on the requirements of a given project. I'm currently a passionate in electronics, microcontrollers and competitive problem solving which I currently improve myself in. I also code mobile apps often, and for them I mostly use MAUI and Flutter tech stack.</p>
