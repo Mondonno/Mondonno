@@ -16,7 +16,7 @@
 </ul>
 
 
-You can contact me via mail: <b>mondonno.contact@gmail.com</b></li>
+You can contact me via mail: <b>m@mikolajmocek.com</b></li>
 
 <details>
   <summary>:zap: Coding <b>Stats</b></summary>
