@@ -8,25 +8,26 @@
 </p>
 
 <p align="left">
-  I'm a mobile and native systems developer. I mostly work in low-level and object-oriented languages and their derivatives, depending on the project requirements. My focus areas include electronics, microcontrollers, and competitive programming, alongside cross-platform app development with Flutter.
+  I specialize in low-level systems, high-performance backends, and mobile applications. My work spans Go, C++, Python, and cross-platform native engineering with Flutter, along with algorithmic problem solving, machine learning inference, and infrastructure automation.
 </p>
 
-#### About me
+#### Core Stack & Domains
 
-* I focus mostly on backend architecture, systems, and low-level engineering.
-* Core domains: mobile applications, AI, competitive problem solving, and microcontrollers.
+* **Systems & Backend:** Go, C++, C#, Python, Docker
+* **Mobile & Frontend:** Flutter / Dart, TypeScript, Next.js
+* **Domains:** AI & ML inference, GIS / spatial routing, competitive algorithms, microcontrollers
 * Contact: <a href="mailto:m@mikolajmocek.com"><b>m@mikolajmocek.com</b></a>
 
 <details>
-  <summary>⚡ Tech Stack & Tools</summary>
+  <summary>⚡ <b>Tech Stack & Tools</b></summary>
   <br>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,py,dart,flutter,js,ts" alt="tech-stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,go,python,cs,dart,flutter,ts,nextjs,react,docker,linux" alt="tech-stack" />
   </p>
 </details>
 
 <details>
-  <summary>⚡ Coding Stats</summary>
+  <summary>⚡ <b>Coding Stats</b></summary>
   <br>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Mondonno&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mondonno's GitHub Stats" />
@@ -34,10 +35,10 @@
 </details>
 
 <details>
-  <summary>⚡ Mostly Used Languages</summary>
+  <summary>⚡ <b>Mostly Used Languages</b></summary>
   <br>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mondonno&layout=compact&theme=dark&hide_border=true&hide=html,css&langs_count=7" alt="Top Languages" />
   </p>
-  <p><sub><i>Top languages calculated from public repositories</i></sub></p>
+  <p><sub><i>Excluding markup (HTML/CSS) · Calculated across active public repositories</i></sub></p>
 </details>
