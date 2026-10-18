@@ -30,7 +30,7 @@
   <summary>⚡ <b>Coding Stats</b></summary>
   <br>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mondonno&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mondonno's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mondonno&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_rank=true" alt="Mondonno's GitHub Stats" />
   </p>
 </details>
 
